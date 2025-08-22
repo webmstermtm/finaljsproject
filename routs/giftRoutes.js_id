@@ -1,0 +1,2 @@
+router.get('/', async (req, res) => { /* return all gifts */ });
+router.get('/:id', async (req, res) => { /* return gift by id */ });
